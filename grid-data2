@@ -12,5 +12,33 @@
     "Club": "3450",
     "PI Item": "no",
     "Costco": "no"
+  },
+  {
+    "Item": "255654",
+    "Retail": 23.00,
+    "Club": "3450",
+    "PI Item": "no",
+    "Costco": "no"
+  },
+   {
+    "Item": "255654",
+    "Retail": 23.00,
+    "Club": "3452",
+    "PI Item": "no",
+    "Costco": "no"
+  },
+     {
+    "Item": "255654",
+    "Retail": 23.00,
+    "Club": "3452",
+    "PI Item": "no",
+    "Costco": "no"
+  },
+     {
+    "Item": "255654",
+    "Retail": 23.00,
+    "Club": "3451",
+    "PI Item": "no",
+    "Costco": "no"
   }
 ]
