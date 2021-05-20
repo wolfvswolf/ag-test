@@ -1,0 +1,30 @@
+[
+  {
+    "Item": "12948",
+    "Retail": 23.34,
+    "Club": "3456",
+    "PI Item": "yes",
+    "Costco": "yes"
+  },
+  {
+    "Item": "255655",
+    "Retail": 20.24,
+    "Club": "3450",
+    "PI Item": "no",
+    "Costco": "no"
+  }
+   {
+    "Item": "255643",
+    "Retail": 25.34,
+    "Club": "3420",
+    "PI Item": "no",
+    "Costco": "no"
+  }
+   {
+    "Item": "255643",
+    "Retail": 25.34,
+    "Club": "3450",
+    "PI Item": "no",
+    "Costco": "yes"
+  }
+]
