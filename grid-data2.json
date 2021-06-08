@@ -40,6 +40,22 @@
     "Costco": "yes",
     "Retail status": "Current"
   },
+  {
+    "Item": "255654",
+    "Retail": 23.08,
+    "Club": "3455",
+    "PI Item": "yes",
+    "Costco": "yes",
+    "Retail status": "Current"
+  },
+    {
+    "Item": "255654",
+    "Retail": 23.08,
+    "Club": "3423",
+    "PI Item": "yes",
+    "Costco": "yes",
+    "Retail status": "Current"
+  },
    {
     "Item": "255654",
     "Retail": 19.96,
@@ -48,10 +64,26 @@
     "Costco": "no",
     "Retail status": "Future"
   },
+     {
+    "Item": "255654",
+    "Retail": 19.96,
+    "Club": "3453",
+    "PI Item": "no",
+    "Costco": "no",
+    "Retail status": "Future"
+  },
    {
     "Item": "255654",
     "Retail": 14.96,
     "Club": "3459",
+    "PI Item": "yes",
+    "Costco": "yes",
+    "Retail status": "Blocked"
+  },
+   {
+    "Item": "255654",
+    "Retail": 14.96,
+    "Club": "3451",
     "PI Item": "yes",
     "Costco": "yes",
     "Retail status": "Blocked"
