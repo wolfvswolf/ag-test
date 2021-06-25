@@ -1,7 +1,7 @@
 [
   {
-    "Product group": "Boyer's coffee assortment -  P05000555",
-    "Item group": "Boyer's mountain roast decaf - IG0302323098",
+    "Product group": "Boyer's coffee assortment P05000555",
+    "Item group": "Boyer's mountain roast decaf IG0302323098",
     "Item": "12948",
     "Retail": 23.34,
     "Club": "3456",
@@ -42,8 +42,8 @@
     "Lock end date": "9/15/21"
   },
   {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -84,8 +84,8 @@
     "Lock end date": "9/15/21"
   },
   {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree bagged - IG0302323766",
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree bagged IG0302323766",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -164,8 +164,8 @@
     "Lock end date": "9/15/21"
   },
    {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree bagged - IG0302323537",
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree bagged IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -210,7 +210,7 @@
     "PI Item": "no",
     "Costco": "no",
     "Retail status": "Current",
-     "Item description": "Complete dog food pedigree 55 lb",
+    "Item description": "Complete dog food pedigree 55 lb",
     "Category": "1 - Dry goods",
     "Sub category": "19 - Dog food",
     "Effective date": "12/12/20",
@@ -243,9 +243,9 @@
     "Lock effective date": "8/15/21",
     "Lock end date": "9/15/21"
   },
-     {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+  {
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -324,8 +324,8 @@
     "Lock end date": "9/15/21"
   },
   {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -404,8 +404,8 @@
     "Lock end date": "9/15/21"
   },
     {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -484,8 +484,8 @@
     "Lock end date": "9/15/21"
   },
    {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -563,9 +563,9 @@
     "Lock effective date": "8/15/21",
     "Lock end date": "9/15/21"
   },
-     {
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+   {
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -645,8 +645,8 @@
   },
    {
      
-    "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+    "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -725,8 +725,8 @@
     "Lock end date": "9/15/21"
   },
    {
-     "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+     "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
@@ -805,8 +805,8 @@
     "Lock end date": "9/15/21"
   },
      {
-       "Product group": "Dog food Pedigree -  P05000487",
-    "Item group": "Pedigree canned - IG0302323537",
+       "Product group": "Dog food Pedigree P05000487",
+    "Item group": "Pedigree canned IG0302323537",
     "Item": "255655",
     "Retail": 20.24,
     "Club": "3450",
