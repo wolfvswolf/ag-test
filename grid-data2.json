@@ -1,8 +1,8 @@
 [ 
 	{
-		"Product group": "Product: ID 0000001<br/>Apple iPad (2018 Model) Wi-Fi 128GB",
-		"Item group": "GTIN: 00190198650115<br/>Apple iPad (2018 Model) Wi-Fi 128GB - Space Gray",
-		"Item": "980111684",
+		"Product group": "Product: ID 0000001 Apple iPad (2018 Model) Wi-Fi 128GB",
+		"Item group": "GTIN: 00190198650115 Apple iPad (2018 Model) Wi-Fi 128GB - Space Gray",
+		"Item": "Item 980111684",
 		"Retail": 23.34,
 		"Club": "Club 3456",
 		"PI Item": "PI item: yes",
@@ -47,7 +47,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 15.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -92,7 +92,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree bagged IG0302323766",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 17.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -137,7 +137,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree bagged IG0302323766",
-		"Item": "255654",
+		"Item": "Item 255654",
 		"Retail": 25.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -182,7 +182,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree bagged IG0302323766",
-		"Item": "255654",
+		"Item": "Item 255654",
 		"Retail": 18.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -227,7 +227,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree bagged IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 16.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -272,7 +272,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree bagged IG0302323537",
-		"Item": "255654",
+		"Item": "Item 255654",
 		"Retail": 22.00,
 		"Club": "Club 3452",
 		"PI Item": "PI item: no",
@@ -317,7 +317,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 13.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -362,7 +362,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255654",
+		"Item": "Item 255654",
 		"Retail": 23.08,
 		"Club": "Club 3459",
 		"PI Item": "PI item: yes",
@@ -407,7 +407,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 12.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -452,7 +452,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255654",
+		"Item": "Item 255654",
 		"Retail": 23.08,
 		"Club": "Club 3455",
 		"PI Item": "PI item: yes",
@@ -497,7 +497,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 11.00,
 		"Club": "Club 3451",
 		"PI Item": "PI item: no",
@@ -542,7 +542,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255654",
+		"Item": "Item 255654",
 		"Retail": 23.08,
 		"Club": "Club 3423",
 		"PI Item": "PI item: yes",
@@ -587,7 +587,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 10.00,
 		"Club": "Club 3451",
 		"PI Item": "PI item: no",
@@ -632,7 +632,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255654",
+		"Item": "Item 255654",
 		"Retail": 19.96,
 		"Club": "Club 3459",
 		"PI Item": "PI item: no",
@@ -677,7 +677,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 9.00,
 		"Club": "Club 3451",
 		"PI Item": "PI item: no",
@@ -722,7 +722,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 8.00,
 		"Club": "Club 3451",
 		"PI Item": "PI item: no",
@@ -767,7 +767,7 @@
 	{
 		"Product group": "Dog food Pedigree P05000487",
 		"Item group": "Pedigree canned IG0302323537",
-		"Item": "255655",
+		"Item": "Item 255655",
 		"Retail": 7.00,
 		"Club": "Club 3451",
 		"PI Item": "PI item: no",
@@ -812,7 +812,7 @@
 	{
                 "Product group": "Product: ID 0000001 - Apple iPad (2018 Model) Wi-Fi 128GB",
 		"Item group": "GTIN: 00190198650115 - Apple iPad (2018 Model) Wi-Fi 128GB - Space Gray",
-		"Item": "12948",
+		"Item": "Item 12948",
 		"Retail": 21.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -857,7 +857,7 @@
 	{
 	        "Product group": "Product: ID 0000001 - Apple iPad (2018 Model) Wi-Fi 128GB",
 		"Item group": "GTIN: 00190198650115 - Apple iPad (2018 Model) Wi-Fi 128GB - Space Gray",
-		"Item": "12948",
+		"Item": "Item 12948",
 		"Retail": 26.00,
 		"Club": "Club 3450",
 		"PI Item": "PI item: no",
@@ -902,7 +902,7 @@
 	{
 		"Product group": "Product: ID 0000001 - Apple iPad (2018 Model) Wi-Fi 128GB",
 		"Item group": "GTIN: 00190198650115 - Apple iPad (2018 Model) Wi-Fi 128GB - Space Gray",
-		"Item": "12948",
+		"Item": "Item 12948",
 		"Retail": 20.00,
 		"Club": "Club 3456",
 		"PI Item": "PI item: no",
