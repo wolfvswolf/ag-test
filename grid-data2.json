@@ -62,7 +62,7 @@
 		"Category": "1 - Dry goods",
 		"Sub category": "19 - Dog food",
 		"Effective date": "12/12/20",
-		"Retail reason": "Cost change",
+		"Retail reason": "Price investment",
 		"Created by user": "S0n01km",
 		"Created date": "12/01/20",
 		"Item status": "A",
@@ -86,11 +86,11 @@
 		"PI market": "San Antonio, TX",
 		"PI market type": "Full",
 		"Lock status": "Locked",
-		"Lock type": "Disaster",
+		"Lock type": "Price investment",
 		"Lock last modified": "s0n01km | 6/20/20 | 5:30 PM",
 		"Lock effective date": "1/15/21",
 		"Fresh DC": "Terrell",
-		"Lock end date": "1/30/21"
+		"Lock end date": ""
 	},
 	{
 		"Product group": "Dog food Pedigree P05000487",
@@ -132,11 +132,11 @@
 		"PI market": "San Antonio, TX",
 		"PI market type": "Full",
 		"Lock status": "Locked",
-		"Lock type": "Disaster",
+		"Lock type": "Price investment",
 		"Lock last modified": "s0n01km | 6/20/20 | 5:30 PM",
-		"Lock effective date": "8/15/21",
+		"Lock effective date": "1/15/21",
 		"Fresh DC": "Terrell",
-		"Lock end date": "9/15/21"
+		"Lock end date": ""
 	},
 	{
 		"Product group": "Dog food Pedigree P05000487",
